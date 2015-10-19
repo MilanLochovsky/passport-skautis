@@ -1,0 +1,30 @@
+{
+  "name": "passport-skautis",
+  "version": "0.0.1",
+  "description": "Passport strategie pro přihlášení pomocí SkautISu",
+  "main": "./lib",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MilanLochovsky/passport-skautis.git"
+  },
+  "keywords": [
+    "skautis",
+    "passport"
+  ],
+  "author": "Milan Lochovský",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MilanLochovsky/passport-skautis/issues"
+  },
+  "homepage": "https://github.com/MilanLochovsky/passport-skautis#readme",
+  "dependencies": {
+    "node-skautis": "0.0.1",
+    "passport-strategy": "^1.0.0"
+  }
+}
