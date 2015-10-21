@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/MilanLochovsky/passport-skautis#readme",
   "dependencies": {
+    "moment": "^2.10.6",
     "node-skautis": "0.0.1",
     "passport-strategy": "^1.0.0"
   }
