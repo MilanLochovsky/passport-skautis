@@ -1,6 +1,6 @@
 {
   "name": "passport-skautis",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Passport strategie pro přihlášení pomocí SkautISu",
   "main": "./lib",
   "directories": {
